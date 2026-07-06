@@ -14,14 +14,17 @@ status:
   icon: ''
 role: Postdoc
 bio: |
-  Bingxin Lin is a postdoctoral researcher at Tsinghua University. Her
-  research interests lie broadly in psychology and neuroscience. This
-  profile is a first version of her academic homepage and will be updated
-  with a fuller biography, selected publications, projects, CV, and profile
-  links as materials become available.
+  Bingxin Lin is a postdoctoral researcher in the Department of Psychological
+  and Cognitive Sciences at Tsinghua University. Her research examines
+  learning science, time perception, flow experience, and affective processes
+  from behavioral and cognitive neuroscience perspectives. Her work combines
+  experimental psychology with neurophysiological methods, including EEG/ERP,
+  tDCS, and physiological sensing, to investigate how people perceive time,
+  enter optimal learning and flow states, and express emotion-related bodily
+  signals.
 
 affiliations:
-  - name: Tsinghua University
+  - name: Department of Psychological and Cognitive Sciences, Tsinghua University
     url: https://www.tsinghua.edu.cn/en/
 
 links:
@@ -38,16 +41,19 @@ interests:
   - Neuroscience
   - Learning Science
   - Time Perception
+  - Flow Experience
+  - Affective Computing
 
 education: []
 
 experience:
   - role: Postdoctoral Researcher
-    org: Tsinghua University
+    org: Department of Psychological and Cognitive Sciences, Tsinghua University
     start: ''
     summary: |
-      Research in psychology and neuroscience. Add a more detailed research
-      summary when available.
+      Research on learning science, time perception, flow experience, and
+      affective neuroscience using behavioral, EEG/ERP, brain stimulation,
+      and physiological sensing methods.
 
 skills:
   - name: Research Areas
@@ -56,6 +62,12 @@ skills:
         level: 5
       - label: Neuroscience
         level: 5
+      - label: Learning Science
+        level: 5
+      - label: Time Perception
+        level: 5
+      - label: Affective Computing
+        level: 4
 
 languages: []
 awards: []

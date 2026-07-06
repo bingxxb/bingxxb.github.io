@@ -30,7 +30,9 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        My research interests are in psychology and neuroscience. This homepage is currently a first version and will be updated with a fuller research statement, selected publications, projects, and CV.
+        My research integrates psychology, cognitive neuroscience, and learning science to understand how people perceive time, engage with tasks, and regulate affective experience. One line of work investigates time perception and temporal working memory, including visual duration aftereffects and the causal role of prefrontal stimulation in temporal cognition.
+
+        A second line of work studies flow experience and learning-related states using EEG and portable neurophysiological recording. I am also interested in affective computing and embodied emotion, including how bodily electrodermal signals can represent emotional states in real-world human-computer interaction contexts.
     design:
       columns: '1'
   - block: collection
