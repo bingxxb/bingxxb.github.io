@@ -36,11 +36,11 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publications
-        featured_only: true
+        featured_only: false
     design:
       view: citation
 ---

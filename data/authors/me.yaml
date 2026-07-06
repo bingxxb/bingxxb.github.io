@@ -28,10 +28,16 @@ links:
   - icon: at-symbol
     url: mailto:bingxxlin@gmail.com
     label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=dwvnDqkAAAAJ
+  - icon: hero/building-office-2
+    url: https://www.pcs.tsinghua.edu.cn/xlxen/info/1011/1362.htm
 
 interests:
   - Psychology
   - Neuroscience
+  - Learning Science
+  - Time Perception
 
 education: []
 
